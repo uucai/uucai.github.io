@@ -1,6 +1,7 @@
 ---
 title: Specific heat of phonon
 data: 2023-06-27
+mathjax: true
 ---
 The energy of one phonon is defined as:
 $$E = \hbar\omega $$ 
