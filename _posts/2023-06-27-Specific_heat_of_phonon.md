@@ -10,7 +10,7 @@ In quantum statistics, phonon number, _n_, follows Bose-Einstein distribution:
 $$n=\frac 1{e^{\frac {\hbar\omega}{k_BT}}-1}$$ 
 where $k_B$ is the Boltzmman constant, _T_ is temperature. Therefore, the thermal energy contribution by phonons is expressed as:
 $$E_{thermal}=(n+\frac 12)\hbar\omega$$ 
-Then the specific heat of, _C_, phonon is derived by:
+Then the specific heat, _C_, of phonon is derived by:
 $$
 \begin{equation}
 \begin{split}
@@ -22,6 +22,7 @@ C&=\frac {\partial E_{thermal}}{\partial T} \\
 \nonumber
 \end{equation}
 $$
+
 
 
 
